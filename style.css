@@ -1,0 +1,17 @@
+body{
+    font-family: monospace;
+    text-align: center;
+    background-image: "background.gif";
+}
+
+h1{
+    border-style: solid;
+    border-color: black;
+    border-width: 2;
+}
+
+#stopbtn{
+    border-style: solid;
+    font-size: 18;
+    padding: 5;
+}
